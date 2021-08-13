@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @glebignatski
-- 👀 I’m interested in Backend Software Development
+- 👀 I’m interested in Back end Software Development
 - 🌱 I’m currently learning Computer Science at York University
 - 💞️ I’m looking to collaborate on Python OpenCV Projects
 - 📫 How to reach me gleb99@my.yorku.ca
