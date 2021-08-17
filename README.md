@@ -2,7 +2,7 @@
 - 👀 I’m interested in Back end Software Development
 - 🌱 I’m currently learning Computer Science at York University, algorithms at Princeton University through Coursera, competing in Codewars coding challenges
 - 💞️ I’m looking to collaborate on Python OpenCV Projects, Test Java Applications
-- 📫 How to reach me gleb99@my.yorku.ca
+- 📫 How to reach me: Email: gleb99@my.yorku.ca
 
 <!---
 glebignatski/glebignatski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
