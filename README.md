@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gleb Ignatski (@glebignatski)
 - 👀 I’m interested in Back end Software Development
-- 🌱 I’m currently learning Computer Science at York University, algorithms at Princeton University through Coursera, competing in Codewars coding challenges
+- 🌱 I’m currently learning Computer Science at York University, Algorithms through "Coursera", competing in "Codewars" coding challenges
 - 💞️ I’m looking to collaborate on Python OpenCV Projects, Test Java Applications
 - 📫 How to reach me: Email: gleb99@my.yorku.ca
 
