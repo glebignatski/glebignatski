@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gleb Ignatski (@glebignatski)
-- 👀 I’m interested in Back end Software Development
-- 🌱 I’m currently learning Computer Science at York University
-- 💞️ I’m looking to collaborate on Python OpenCV Projects, Test Java Applications
+- 👀 I’m interested in Back end Software Development and Network Security
+- 🌱 I have a Specialized Honours Computer Science BSc degree from York University
 - 📫 How to reach me: Email: gleb99@my.yorku.ca
 
 <!---
