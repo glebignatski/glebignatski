@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gleb Ignatski (@glebignatski)
 - 👀 I’m interested in Full Stack Software Development and Network Security
 - 🌱 I have a Specialized Honours Computer Science BSc degree from York University
-- 📫 How to reach me: Email: gleb99@my.yorku.ca
+- 📫 How to reach me: Email: glebignatski@gmail.com
 
 <!---
 glebignatski/glebignatski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
